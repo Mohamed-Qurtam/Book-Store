@@ -321,11 +321,8 @@ void welcomeMessage(void)
     puts("\a\t\t**** WELCOME ****\t\t"); // \a is used to make the peep sound while \t to make a Tap space
     puts("\n\t PROTOTYPE OF BOOK STORE");
     puts("\n PREPERED BY:");
-    puts("1) Mohamed Hossny");
-    puts("2) Mohamed Ayman");
-    puts("3) Mohamed Qurtam");
-    puts("4) Mohamed Samy");
-    puts("5) Micheal Mattrey");
+    puts("Mohamed Ahmed Qurtam");
+
 
     //Creating a junky loop to spend time (used as delay function)
     int i = 0, j = 0;
